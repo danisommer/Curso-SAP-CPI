@@ -1,0 +1,58 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-groovysh-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-console-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-xml-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-json-direct-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-macro-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-console-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-json-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-nio-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-test-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-jmx-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-swing-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-bsf-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-cli-commons-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-datetime-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-xml-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-templates-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-jmx-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-test-junit5-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-dateutil-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-ant-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-jsr223-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-groovysh-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-testng-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-testng-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-sql-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-servlet-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-nio-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-groovydoc-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-cli-commons-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-json-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-jsr223-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-servlet-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-dateutil-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-bsf-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-groovydoc-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-docgenerator-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-swing-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-templates-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-cli-picocli-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-docgenerator-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-sql-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-json-direct-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-test-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-ant-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-test-junit5-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-cli-picocli-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-macro-2.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-2.5.23-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GroovyMapping/lib/groovy-datetime-2.5.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
