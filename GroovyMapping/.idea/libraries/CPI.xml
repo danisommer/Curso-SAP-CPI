@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CPI">
+    <CLASSES>
+      <root url="file://$USER_HOME$/snap/Lib/CPI" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/snap/Lib/CPI" recursive="false" />
+  </library>
+</component>
